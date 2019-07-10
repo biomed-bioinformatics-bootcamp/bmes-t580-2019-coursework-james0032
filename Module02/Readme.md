@@ -29,6 +29,8 @@
   - Check-in and Push the changes to guess_my_primer.py
   - Check-in and Push a screenshot of you playing the Guess A Primer game.
   - Place the screenshot in this Readme.md file so it properly displays.
+  ![guess_primer](Guess_primer_screenshot.PNG) 
+  
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
 3. Add a link to the repo to BBLearn as your "Assignment".
 
